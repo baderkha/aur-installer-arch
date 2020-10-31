@@ -20,5 +20,5 @@ $: Enter the Aur Git Repository :
 ## Installation 
 
 ```bash
-$: git clone https://github.com/baderkha/aur-installer-arch && cd aur-install-arch && make install 
+$: git clone https://github.com/baderkha/aur-installer-arch && cd aur-installer-arch && make install 
 ```
