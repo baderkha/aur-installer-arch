@@ -26,3 +26,8 @@ $: Enter the Aur Git Repository :
 ```bash
 $: git clone https://github.com/baderkha/aur-installer-arch && cd aur-installer-arch && make install;
 ```
+
+## Requirements
+- makepkg https://wiki.archlinux.org/index.php/makepkg
+- python 3.8
+- git , you should have this
