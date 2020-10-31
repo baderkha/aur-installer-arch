@@ -7,6 +7,10 @@ The normal way to use it
 ```bash
 $: aurer <<git-repo>>
  ```
+example 
+ ```bash
+$: aurer https://aur.archlinux.org/slack-desktop.git
+ ```
 or if you're lazier
 ```bash
 $: aurer
