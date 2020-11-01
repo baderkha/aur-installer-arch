@@ -3,7 +3,7 @@
 Quick and dirty Arch linux aur installer , because i'm lazy
 
 What's Aur ? 
-RTFM , jk , but seriously her's the manual https://wiki.archlinux.org/index.php/AUR_helpers
+RTFM , jk , but seriously here's the manual https://wiki.archlinux.org/index.php/AUR_helpers
 
 ## Usage
 The normal way to use it
